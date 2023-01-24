@@ -1,0 +1,50 @@
+.navbar{
+    border-bottom: solid 3px rgba(128, 120, 120, 0.877);
+}
+.nav-item{
+    padding: 0px 15px;
+    text-transform: uppercase;
+    margin: 0px 10px;
+}
+.nav-item:hover{
+    padding: 20px 0px;
+    border-bottom: solid 2px green;
+    transition: all 1s;
+}
+header{
+    min-height: 170vh;
+    background: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-size: cover;
+    background-attachment:fixed ;
+}
+.res-name{
+    padding-top: 310px;
+    font-size: 50px;
+    line-height: 80px;
+    letter-spacing: 3px;
+}
+.par{
+    border-bottom: solid 1px green;
+}
+.photo{
+    border-bottom: solid 4px rgba(64, 209, 64, 0.815);
+}
+.menu{
+    background: rgba(219, 219, 219, 0.993);
+}
+.menu h1{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    
+}
+.cart{
+    text-decoration: none;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgb(156, 154, 154);
+    font-size: 20px;
+}
+.card{
+    height: 270px;
+    width: 570px;
+    
+}
